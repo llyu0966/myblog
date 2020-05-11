@@ -44,12 +44,16 @@ for(i in 2:71){
 plot(t,Bass, type="l")
    
 ```
+![](https://llyu0966.github.io/mypic/BT/BC.png)
+
 ## (b) T(t) versus t
 
 
 ```{r}
 plot(t, Trout, type="l")
 ```
+![](https://llyu0966.github.io/mypic/BT/TC.png)
+
 ## (c) The solution trajectory (B(t), T(t)) in the phase plane.
 
 You can also embed plots, for example:
@@ -57,6 +61,10 @@ You can also embed plots, for example:
 ```{r}
 plot(Bass, Trout, type="l")
 ```
+![](https://llyu0966.github.io/mypic/BT/BTC.png)
+
 ```{r}
 data.frame(cbind(t,Bass,Trout))
 ```
+![](https://llyu0966.github.io/mypic/BT/BT1.png)
+![](https://llyu0966.github.io/mypic/BT/BT2.png)
