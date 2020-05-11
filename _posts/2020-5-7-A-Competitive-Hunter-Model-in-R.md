@@ -11,6 +11,7 @@ Example: A Competitive Hunter Model
 Assume we have a lake that is stocked with both bass and trout. Because both eat the same food sources, they are competing for survival. Let b(t) and T(t) denote the bass and trout populations, respectively, at time t. The rates of growth for bass and for trout are estimate by the differential equations
 
 dB/dt = B・(10 - B - T), B(0) = 5
+
 dT/dt = T・(15 - B - 3・T), T(0) = 2
 
 Use Euler's method with step size ∆t=0.1 to estimate the solotion curves from 0≤t≤7 for (a) B(t) versus t; (b) T(t) versus t; (c) The solution trajectory (B(t), T(t)) in the phase plane.
