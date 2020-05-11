@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to My Blog Website!"
+title:  "A Competitive Hunter Model in R"
 date:   2020-05-07 1:33:31 -0400
 categories: R
 ---
