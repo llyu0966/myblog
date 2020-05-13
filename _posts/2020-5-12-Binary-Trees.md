@@ -2,8 +2,10 @@
 layout: "post"
 title: "Binary Trees"
 date:   2020-05-12 3:33:31 -0400
-categories: "Data_Structures"
-Tags: Trees
+categories: [Data Structures]
+tags: [Trees]
+redirect_from:
+  - /2020/05/12/
 ---
 # Binary Trees
 
