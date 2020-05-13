@@ -3,6 +3,7 @@ layout: post
 title:  "A Competitive Hunter Model in R"
 date:   2020-05-07 1:33:31 -0400
 categories: R
+Tags: Modeling
 ---
 ## Using Euler's Method for Systems in R
 
