@@ -13,7 +13,6 @@ plugins:
   - jekyll-sitemap
 
 markdown: CommonMarkGhPages
-markdown: kramdown
 kramdown:
   auto_id_prefix: 'heading-'
   smart_quotes: ["apos", "apos", "quot", "quot"]
