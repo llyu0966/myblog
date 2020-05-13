@@ -28,23 +28,19 @@ Ordered binary trees include **Binary search trees (BST)** and **Binary Heaps**.
     <details><summary>CLICK ME</summary>
     <p>
 
-    #### yes, even hidden code blocks!
-
-![Binary tree](https://llyu0966.github.io/mypic/DS/BST1A.png)
+    ![Binary tree](https://llyu0966.github.io/mypic/DS/BST1A.png)
 
     </p>
     </details>
 
 2. Represent this binary search tree as an array, using inorder traversal.
 
-![Binary tree](https://llyu0966.github.io/mypic/DS/BST2.png)
+   ![Binary tree](https://llyu0966.github.io/mypic/DS/BST2.png)
 
-<details><summary>CLICK ME</summary>
+    <details><summary>CLICK ME</summary>
     <p>
 
-    #### yes, even hidden code blocks!
-
-A B C D E F G H I J K
+    A B C D E F G H I J K
 
     </p>
     </details>
@@ -56,9 +52,7 @@ A B C D E F G H I J K
     <details><summary>CLICK ME</summary>
     <p>
 
-    #### yes, even hidden code blocks!
-
-Yes. [100, 90, 80, 30, 60, 50, 70, 20, 10, 40, 55, 45, 5]
+    Yes. [100, 90, 80, 30, 60, 50, 70, 20, 10, 40, 55, 45, 5]
 
     </p>
     </details>
