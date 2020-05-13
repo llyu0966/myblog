@@ -26,11 +26,11 @@ Ordered binary trees include **Binary search trees (BST)** and **Binary Heaps**.
     ![Binary tree](https://llyu0966.github.io/mypic/DS/BST1.png)
 
     <details><summary>CLICK ME</summary>
-    <p>
+    
 
     ![Binary tree](https://llyu0966.github.io/mypic/DS/BST1A.png)
 
-    </p>
+    
     </details>
 
 2. Represent this binary search tree as an array, using inorder traversal.
