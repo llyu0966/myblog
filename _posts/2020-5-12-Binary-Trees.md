@@ -6,7 +6,7 @@ categories: "Data_Structures"
 ---
 # Binary Trees
 
-Definition: Binary trees refer to the structure of at most children nodes.
+Definition: Binary trees refer to the structure of at most two children nodes.
 
 Ordered binary trees include **Binary search trees (BST)** and **Binary Heaps**.
 
