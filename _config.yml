@@ -15,7 +15,6 @@ plugins:
 markdown: CommonMarkGhPages
 markdown: kramdown
 kramdown:
-  parse_block_html: true
   auto_id_prefix: 'heading-'
   smart_quotes: ["apos", "apos", "quot", "quot"]
   toc_levels: 1..3
