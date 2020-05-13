@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Probabilistic Modeling"
-date:   2020-05-12 3:33:31 -0400
+date:   2020-05-13 1:33:31 -0400
 categories: [R]
 tags: [Modeling]
 redirect_from:
