@@ -3,6 +3,7 @@ layout: "post"
 title: "Binary Trees"
 date:   2020-05-12 3:33:31 -0400
 categories: "Data_Structures"
+Tags: Trees
 ---
 # Binary Trees
 
